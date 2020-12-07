@@ -17,3 +17,4 @@ C:\Users\YILMERGUATIVAR\Documents\OtherProject\NewsXamPackt\NewsXamPackt\NewsXam
 C:\Users\YILMERGUATIVAR\Documents\OtherProject\NewsXamPackt\NewsXamPackt\NewsXamPackt\obj\Debug\netstandard2.0\Views\AboutView.xaml.g.cs
 C:\Users\YILMERGUATIVAR\Documents\OtherProject\NewsXamPackt\NewsXamPackt\NewsXamPackt\obj\Debug\netstandard2.0\Views\ArticleItem.xaml.g.cs
 C:\Users\YILMERGUATIVAR\Documents\OtherProject\NewsXamPackt\NewsXamPackt\NewsXamPackt\obj\Debug\netstandard2.0\Views\ArticleView.xaml.g.cs
+C:\Users\YILMERGUATIVAR\Documents\OtherProject\NewsXamPackt\NewsXamPackt\NewsXamPackt\obj\Debug\netstandard2.0\MainShell.xaml.g.cs

@@ -8,7 +8,8 @@ namespace NewsXamPackt
         {
             InitializeComponent();
             Bootstrapper.Initialize();
-            MainPage = new MainPage();
+            //MainPage = new MainPage();
+            MainPage = Resolver.Resolve<MainShell>();
         }
 
         protected override void OnStart()

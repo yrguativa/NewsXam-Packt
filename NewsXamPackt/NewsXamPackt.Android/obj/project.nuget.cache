@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "JtPAo0raN9qu5UkY13oVyZeML4RPVHpl3wEkCMmf49iDkqpDE+RDFuNfhZu6nttNptaiyVyv9s3QTdVnZx/POQ==",
+  "dgSpecHash": "ZJ09+F5oNDrZiOVfdlbnV8rq8RDWBjvd86mtfQVZ65fRFdL6Z/V0dC9hN1hpimo8bC4dcaQS0d9gsPfVv3fuFw==",
   "success": true,
   "projectFilePath": "C:\\Users\\YILMERGUATIVAR\\Documents\\OtherProject\\NewsXamPackt\\NewsXamPackt\\NewsXamPackt.Android\\NewsXamPackt.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\YILMERGUATIVAR\\.nuget\\packages\\autofac\\6.0.0\\autofac.6.0.0.nupkg.sha512",
     "C:\\Users\\YILMERGUATIVAR\\.nuget\\packages\\fody\\6.3.0\\fody.6.3.0.nupkg.sha512",
+    "C:\\Users\\YILMERGUATIVAR\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\YILMERGUATIVAR\\.nuget\\packages\\propertychanged.fody\\3.3.1\\propertychanged.fody.3.3.1.nupkg.sha512",
     "C:\\Users\\YILMERGUATIVAR\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.common\\1.1.1.3\\xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",
@@ -48,5 +49,16 @@
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
     "C:\\Users\\YILMERGUATIVAR\\.nuget\\packages\\xamarin.forms\\4.8.0.1687\\xamarin.forms.4.8.0.1687.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Degradación del paquete detectada: Autofac de 6.1.0 a 6.0.0. Haga referencia al paquete directamente desde el proyecto para seleccionar una versión diferente. \r\n NewsXamPackt.Android -> NewsXamPackt -> Autofac (>= 6.1.0) \r\n NewsXamPackt.Android -> Autofac (>= 6.0.0)",
+      "libraryId": "Autofac",
+      "targetGraphs": [
+        "MonoAndroid,Version=v9.0"
+      ]
+    }
+  ]
 }

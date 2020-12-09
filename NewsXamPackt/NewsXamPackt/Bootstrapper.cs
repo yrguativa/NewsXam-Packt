@@ -1,4 +1,5 @@
 ﻿using Autofac;
+using NewsXamPackt.Services;
 using NewsXamPackt.ViewModels;
 
 namespace NewsXamPackt
@@ -8,6 +9,7 @@ namespace NewsXamPackt
         public static void Initialize()
         {
             var containerBuilder = new ContainerBuilder();
+            containerBuilder.RegisterType<NewsService>();
             containerBuilder.RegisterType<MainShell>();
 
             containerBuilder

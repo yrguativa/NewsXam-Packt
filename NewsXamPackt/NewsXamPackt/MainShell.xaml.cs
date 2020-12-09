@@ -1,4 +1,5 @@
 ﻿
+using NewsXamPackt.Views;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -10,6 +11,8 @@ namespace NewsXamPackt
         public MainShell()
         {
             InitializeComponent();
+
+            Routing.RegisterRoute("articleview", typeof(ArticleView));
         }
     }
 }

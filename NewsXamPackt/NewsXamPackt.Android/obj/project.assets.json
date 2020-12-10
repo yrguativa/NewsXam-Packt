@@ -2075,39 +2075,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\YILMERGUATIVAR\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "/Users/yilmerguativa/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\YILMERGUATIVAR\\Documents\\OtherProject\\NewsXamPackt\\NewsXamPackt\\NewsXamPackt.Android\\NewsXamPackt.Android.csproj",
+      "projectUniqueName": "/Users/yilmerguativa/Desktop/Learnning/Xamarin/NewsXam-Packt/NewsXamPackt/NewsXamPackt.Android/NewsXamPackt.Android.csproj",
       "projectName": "NewsXamPackt.Android",
-      "projectPath": "C:\\Users\\YILMERGUATIVAR\\Documents\\OtherProject\\NewsXamPackt\\NewsXamPackt\\NewsXamPackt.Android\\NewsXamPackt.Android.csproj",
-      "packagesPath": "C:\\Users\\YILMERGUATIVAR\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\YILMERGUATIVAR\\Documents\\OtherProject\\NewsXamPackt\\NewsXamPackt\\NewsXamPackt.Android\\obj\\",
+      "projectPath": "/Users/yilmerguativa/Desktop/Learnning/Xamarin/NewsXam-Packt/NewsXamPackt/NewsXamPackt.Android/NewsXamPackt.Android.csproj",
+      "packagesPath": "/Users/yilmerguativa/.nuget/packages/",
+      "outputPath": "/Users/yilmerguativa/Desktop/Learnning/Xamarin/NewsXam-Packt/NewsXamPackt/NewsXamPackt.Android/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\YILMERGUATIVAR\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "/Users/yilmerguativa/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "monoandroid90"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\YILMERGUATIVAR\\Documents\\OtherProject\\NewsXamPackt\\NewsXamPackt\\NewsXamPackt\\NewsXamPackt.csproj": {
-              "projectPath": "C:\\Users\\YILMERGUATIVAR\\Documents\\OtherProject\\NewsXamPackt\\NewsXamPackt\\NewsXamPackt\\NewsXamPackt.csproj"
+            "/Users/yilmerguativa/Desktop/Learnning/Xamarin/NewsXam-Packt/NewsXamPackt/NewsXamPackt/NewsXamPackt.csproj": {
+              "projectPath": "/Users/yilmerguativa/Desktop/Learnning/Xamarin/NewsXam-Packt/NewsXamPackt/NewsXamPackt/NewsXamPackt.csproj"
             }
           }
         }

@@ -1255,39 +1255,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\YILMERGUATIVAR\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "/Users/yilmerguativa/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\YILMERGUATIVAR\\Documents\\OtherProject\\NewsXamPackt\\NewsXamPackt\\NewsXamPackt.iOS\\NewsXamPackt.iOS.csproj",
+      "projectUniqueName": "/Users/yilmerguativa/Desktop/Learnning/Xamarin/NewsXam-Packt/NewsXamPackt/NewsXamPackt.iOS/NewsXamPackt.iOS.csproj",
       "projectName": "NewsXamPackt.iOS",
-      "projectPath": "C:\\Users\\YILMERGUATIVAR\\Documents\\OtherProject\\NewsXamPackt\\NewsXamPackt\\NewsXamPackt.iOS\\NewsXamPackt.iOS.csproj",
-      "packagesPath": "C:\\Users\\YILMERGUATIVAR\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\YILMERGUATIVAR\\Documents\\OtherProject\\NewsXamPackt\\NewsXamPackt\\NewsXamPackt.iOS\\obj\\",
+      "projectPath": "/Users/yilmerguativa/Desktop/Learnning/Xamarin/NewsXam-Packt/NewsXamPackt/NewsXamPackt.iOS/NewsXamPackt.iOS.csproj",
+      "packagesPath": "/Users/yilmerguativa/.nuget/packages/",
+      "outputPath": "/Users/yilmerguativa/Desktop/Learnning/Xamarin/NewsXam-Packt/NewsXamPackt/NewsXamPackt.iOS/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\YILMERGUATIVAR\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "/Users/yilmerguativa/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "xamarinios10"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\YILMERGUATIVAR\\Documents\\OtherProject\\NewsXamPackt\\NewsXamPackt\\NewsXamPackt\\NewsXamPackt.csproj": {
-              "projectPath": "C:\\Users\\YILMERGUATIVAR\\Documents\\OtherProject\\NewsXamPackt\\NewsXamPackt\\NewsXamPackt\\NewsXamPackt.csproj"
+            "/Users/yilmerguativa/Desktop/Learnning/Xamarin/NewsXam-Packt/NewsXamPackt/NewsXamPackt/NewsXamPackt.csproj": {
+              "projectPath": "/Users/yilmerguativa/Desktop/Learnning/Xamarin/NewsXam-Packt/NewsXamPackt/NewsXamPackt/NewsXamPackt.csproj"
             }
           }
         }

@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "PNeV8puaWZJYFkLXyAdUpqB/c5tJ2TQwArnmvv8H/mKUHEEuvZ4xgen6Wx9yWQkaD7odkju43OL8SsZCpq2gqw==",
+  "dgSpecHash": "4m09fk1FhEDA3N7aLdUkHyxFe4ZltWh7zvNC89GHCbxQUGyFSMNdajIcNbNoprzA6yIoKvLMTTJi51Whr+OS3w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\YILMERGUATIVAR\\Documents\\OtherProject\\NewsXamPackt\\NewsXamPackt\\NewsXamPackt.iOS\\NewsXamPackt.iOS.csproj",
+  "projectFilePath": "/Users/yilmerguativa/Desktop/Learnning/Xamarin/NewsXam-Packt/NewsXamPackt/NewsXamPackt.iOS/NewsXamPackt.iOS.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\YILMERGUATIVAR\\.nuget\\packages\\autofac\\6.0.0\\autofac.6.0.0.nupkg.sha512",
-    "C:\\Users\\YILMERGUATIVAR\\.nuget\\packages\\fody\\6.3.0\\fody.6.3.0.nupkg.sha512",
-    "C:\\Users\\YILMERGUATIVAR\\.nuget\\packages\\propertychanged.fody\\3.3.1\\propertychanged.fody.3.3.1.nupkg.sha512",
-    "C:\\Users\\YILMERGUATIVAR\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
-    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
-    "C:\\Users\\YILMERGUATIVAR\\.nuget\\packages\\xamarin.forms\\4.8.0.1687\\xamarin.forms.4.8.0.1687.nupkg.sha512"
+    "/Users/yilmerguativa/.nuget/packages/autofac/6.0.0/autofac.6.0.0.nupkg.sha512",
+    "/Users/yilmerguativa/.nuget/packages/fody/6.3.0/fody.6.3.0.nupkg.sha512",
+    "/Users/yilmerguativa/.nuget/packages/propertychanged.fody/3.3.1/propertychanged.fody.3.3.1.nupkg.sha512",
+    "/Users/yilmerguativa/.nuget/packages/system.diagnostics.diagnosticsource/4.7.1/system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+    "/Users/yilmerguativa/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/yilmerguativa/.nuget/packages/xamarin.forms/4.8.0.1687/xamarin.forms.4.8.0.1687.nupkg.sha512"
   ],
   "logs": []
 }

@@ -974,33 +974,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\YILMERGUATIVAR\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/yilmerguativa/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\YILMERGUATIVAR\\Documents\\OtherProject\\NewsXamPackt\\NewsXamPackt\\NewsXamPackt\\NewsXamPackt.csproj",
+      "projectUniqueName": "/Users/yilmerguativa/Desktop/Learnning/Xamarin/NewsXam-Packt/NewsXamPackt/NewsXamPackt/NewsXamPackt.csproj",
       "projectName": "NewsXamPackt",
-      "projectPath": "C:\\Users\\YILMERGUATIVAR\\Documents\\OtherProject\\NewsXamPackt\\NewsXamPackt\\NewsXamPackt\\NewsXamPackt.csproj",
-      "packagesPath": "C:\\Users\\YILMERGUATIVAR\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\YILMERGUATIVAR\\Documents\\OtherProject\\NewsXamPackt\\NewsXamPackt\\NewsXamPackt\\obj\\",
+      "projectPath": "/Users/yilmerguativa/Desktop/Learnning/Xamarin/NewsXam-Packt/NewsXamPackt/NewsXamPackt/NewsXamPackt.csproj",
+      "packagesPath": "/Users/yilmerguativa/.nuget/packages/",
+      "outputPath": "/Users/yilmerguativa/Desktop/Learnning/Xamarin/NewsXam-Packt/NewsXamPackt/NewsXamPackt/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\YILMERGUATIVAR\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "/Users/yilmerguativa/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1052,7 +1043,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
       }
     }
   }
